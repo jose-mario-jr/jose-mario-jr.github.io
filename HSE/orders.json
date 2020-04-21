@@ -1,0 +1,23 @@
+[
+  {
+    "productCode": 1,
+    "quantity": 2,
+    "address": "Endereco do bifao",
+    "client": "Bifao",
+    "contact": "34 9 9963 4412"
+  },
+  {
+    "productCode": 1,
+    "quantity": 5,
+    "address": "Endereco da florida",
+    "client": "Florida",
+    "contact": "34 9 9963 4412"
+  },
+  {
+    "productCode": 1,
+    "quantity": 7,
+    "address": "Endereco do valfri",
+    "client": "ValFri",
+    "contact": "34 9 9963 4412"
+  }
+]
